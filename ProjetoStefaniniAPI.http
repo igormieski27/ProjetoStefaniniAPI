@@ -1,0 +1,6 @@
+@ProjetoStefaniniAPI_HostAddress = http://localhost:5293
+
+GET {{ProjetoStefaniniAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
